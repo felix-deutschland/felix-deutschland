@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @felix-deutschland and I´m a Microsoft Business Central and Microsoft Dynamics NAV developer at [AGOLUTION GmbH](https://www.agolution.com)
+- 👀 I’m interested in C/AL and AL development.
+- 🌱 I’m currently and always learning C/AL and AL. :)
+- 💞️ I’m looking to collaborate on interesting projects around AL and Microsoft Business Central.
